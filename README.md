@@ -60,7 +60,9 @@ The following enhancements are planned:
 4. Launch each microservice and access the API at the gateway endpoint.
 
 5. Example Request
-GET localhost:8765/mf-analysis/?scheme=hdfc mid cap
+   ```bash
+   GET localhost:8765/mf-analysis/?scheme=hdfc mid cap
+
 
 ## JSON Response Example (Full Data)
 
