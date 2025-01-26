@@ -18,6 +18,7 @@ The microservices in this application work together to provide:
    - MACD
    - RSI
    - MDD
+   - EMA
    - Analytical Ratios
    - and many more...
 
